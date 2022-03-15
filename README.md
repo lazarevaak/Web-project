@@ -12,3 +12,4 @@
 3) подобрать литературу, найти ссылки на источники
 4) создать сайт
 
+https://www.figma.com/file/gFQhxxYzzIftsZTefIgDTQ/Untitled?node-id=0%3A1
